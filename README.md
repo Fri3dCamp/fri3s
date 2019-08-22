@@ -35,8 +35,8 @@ Precooking slowly cooks the inside of the fries into a mash.
 
 * Preheat the vegetable oil and keep it at 150 degrees Celsius
 * Add a portion of fries to the vegetable oil. Use small batches, the fries need to freely swim in the vegetable oil
-* Precook the fries for 7 to 8 minutes. The fries will *sing* as water evaporates from the potatoes. As the potatoes precook, the singing will sowly die out. Pre-cook the fries until the start devloping a light golden color
-* When the fries are precooked, take them out of the oil, shake the basket to remove oild from the fries and put them in a colander lined with paper towel
+* Precook the fries for 7 to 8 minutes. The fries will *sing* as water evaporates from the potatoes. As the potatoes precook, the singing will sowly die out. Pre-cook the fries until they start developing a light golden color
+* When the fries are precooked, take them out of the oil, shake the basket to remove oil from the fries and put them in a colander lined with paper towel
 
 ### Resting
 
@@ -51,9 +51,9 @@ Resting allows the fries to further develop the mash palette and getting them co
 The second cooking at a high heat allows the fries to develop a crust.
 
 * Preheat the vegetable oil and keep it at 180 or higher degrees Celsius
-* Add small batches of fries to the oil and shortly cook them for a crips outside
+* Add small batches of fries to the oil and shortly cook them for a nice crust
 * The second bath takes much shorter than the first bath, so you can push out big amounts of fries at once
-* When the fries are developing a darker brown outside, transfer them to a colander lined with paper towel
+* When the fries are developing a darker brown color, transfer them to a colander lined with paper towel
 
 ### Serving
 
@@ -69,6 +69,6 @@ We do not agree that *French fries* is a historically correct name. Although the
 
 Traditional dishes in Belgium that are served with fries are steak-friet, stoofvlees-friet, baked sole or mussels, usually accompanied with a simple lettuce-tomato salad.
 
-In Belgian , fries are sold with dozens of different sauces, serving all tastes from mayos and ketchups to curry or hot sauces or local shop special sauces.
+In Belgium, fries are sold with dozens of different sauces, serving all tastes from mayos and ketchups to curry or hot sauces or local shop special sauces.
 
 As a quick snack, slide a fried egg on top of the fries and use the egg yolk as a wonderful sauce.
