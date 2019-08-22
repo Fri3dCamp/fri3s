@@ -7,7 +7,7 @@ Belgian fries require your patience and love. We use the *two-bath* technique fo
 ## Ingredients
 
 * Big potatoes. Recommended varieties are *Artemis* or *Bintje*
-* Vegetable oil
+* tallow (beef shortening) You can use vegetable oil, but be aware it wil change the tast
 * Salt
 * Mayon(n)aise (the acidy version with an egg or citrus basis, definitely not a sweet *fritesauce*)
 
@@ -34,9 +34,9 @@ Rinse and cut the potatoes into fries.
 Precooking slowly cooks the inside of the fries into a mash.
 
 * Preheat the vegetable oil and keep it at 150 degrees Celsius
-* Add a portion of fries to the vegetable oil. Use small batches, the fries need to freely swim in the vegetable oil
+* Add a portion of fries to the tallow. Use small batches, the fries need to freely swim in the tallow
 * Precook the fries for 7 to 8 minutes. The fries will *sing* as water evaporates from the potatoes. As the potatoes precook, the singing will sowly die out. Pre-cook the fries until they start developing a light golden color
-* When the fries are precooked, take them out of the oil, shake the basket to remove oil from the fries and put them in a colander lined with paper towel
+* When the fries are precooked, take them out of the tallow, shake the basket to remove tallow from the fries and put them in a colander lined with paper towel
 
 ### Resting
 
@@ -50,8 +50,8 @@ Resting allows the fries to further develop the mash palette and getting them co
 
 The second cooking at a high heat allows the fries to develop a crust.
 
-* Preheat the vegetable oil and keep it at 180 or higher degrees Celsius
-* Add small batches of fries to the oil and shortly cook them for a nice crust
+* Preheat the tallow and keep it at 180 or higher degrees Celsius
+* Add small batches of fries to the tallow and shortly cook them for a nice crust
 * The second bath takes much shorter than the first bath, so you can push out big amounts of fries at once
 * When the fries are developing a darker brown color, transfer them to a colander lined with paper towel
 
@@ -72,3 +72,5 @@ Traditional dishes in Belgium that are served with fries are steak-friet, stoofv
 In Belgium, fries are sold with dozens of different sauces, serving all tastes from mayos and ketchups to curry or hot sauces or local shop special sauces.
 
 As a quick snack, slide a fried egg on top of the fries and use the egg yolk as a wonderful sauce.
+
+
