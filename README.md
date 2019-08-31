@@ -67,8 +67,12 @@ Finish the fries with salt and mayo.
 
 We do not agree that *French fries* is a historically correct name. Although the origin of fries is disputed, Belgians will defend that fries originated in Belgium, as they first appeared in the 17th century in the Meuse valley.
 
-Traditional dishes in Belgium that are served with fries are steak-friet, stoofvlees-friet, baked sole or mussels, usually accompanied with a simple lettuce-tomato salad.
+Traditional dishes in Belgium that are served with fries are:
+* steak
+* stoofvlees (slow-cooked beef stew)
+* baked sole or mussels, usually accompanied with a simple lettuce-tomato salad
+* Vol-au-vent/koninginnehapje
 
-In Belgium, fries are sold with dozens of different sauces, serving all tastes from mayos and ketchups to curry or hot sauces or local shop special sauces.
+In Belgium, fries are also sold in 'frietkoten' (fry shacks), which are relatively small independent snack bars. They serve fries with specialized meat accompaniments and a dizzying selection of sauces, with new ones regularly being launched. These range from mayos and ketchups to curry or hot sauces or local shop special sauces. Frietkoten also usually serve hamburgers or other fast-food, but this is not their main activity.
 
 As a quick snack, slide a fried egg on top of the fries and use the egg yolk as a wonderful sauce.
