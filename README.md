@@ -26,7 +26,7 @@ Rinse and cut the potatoes into fries.
 
 * Rinse and clean the potatoes 
 * Optionally, peel the potatoes
-* Cut long fries, 1cm by 1cm thick. If you don't have a fries cutter, cut the fries in 1cm thick plaques and then into fries
+* Cut long fries, 11mm by 11mm thick. If you don't have a fries cutter, cut the fries in 1cm thick plaques and then into fries
 * Optionally, fries can be washed and dried thoroughly to remove starch and avoid sticky fries, but this step is disputed among chefs
 
 ### Blanching in the first bath
